@@ -11,7 +11,7 @@ package Ventanas0309;
 public class Principal {
     
      public static void main(String[] args) {
-     /*   
+       
      var v1 = new Ventana03a(" INSCRÍBETE ");
        v1.setVisible(true);
       
@@ -20,12 +20,12 @@ public class Principal {
     
      var v3 = new Ventana03c("INFORMACIÓN DE CARRERA");
         v3.setVisible(true);
-   */
+   
      var v4 = new Ventana03d("CREAR GRUPO");
        v4.setVisible(true);
-      /* 
+      
      var v5 = new Ventana03e("VENTANA");
             v5.setVisible(true);
- */
+ 
 }
 }
